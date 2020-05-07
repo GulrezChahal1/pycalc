@@ -1,4 +1,4 @@
-ef compute(expression):
+#functions to perform sum and subtraction
     values = expression.split(' ')
     num0 = int(values[0])
     operator = values[1]
